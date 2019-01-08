@@ -1,0 +1,17 @@
+uuid: 5f707c65-dbfc-4ce0-a2bc-35aebff0c024
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Author
+type: author
+description: 'Info about Author'
+help: ''
+new_revision: true
+preview_mode: 2
+display_submitted: true

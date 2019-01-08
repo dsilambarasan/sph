@@ -1,0 +1,14 @@
+uuid: 8f2f1301-ec4d-4fc5-b5f6-047809d68d9e
+name: SPHTechBlog
+mail: silambu83@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
